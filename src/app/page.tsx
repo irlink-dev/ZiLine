@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { IonNav } from '@ionic/react';
+import ReportForm from '@/components/ReportForm';
 
 export default function Home() {
   const [rootPage, setRootPage] = useState<Function>();
@@ -14,5 +15,5 @@ export default function Home() {
 }
 
 function RootPage() {
-  return;
+  return <ReportForm />;
 }
