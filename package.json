@@ -15,6 +15,7 @@
     "@ionic/react-router": "^6.4.2",
     "@mui/material": "^5.11.4",
     "@next/font": "13.1.2",
+    "@notionhq/client": "^2.2.3",
     "@types/node": "18.11.18",
     "@types/react": "18.0.26",
     "@types/react-dom": "18.0.10",
